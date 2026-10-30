@@ -297,6 +297,14 @@ plugins {
 load_plugins {
     zellij:link
     autolock
+    "https://github.com/bezbac/zellij-tabula/releases/download/v0.6.0/zellij-tabula.wasm" {
+        worktree_name_display "repo_and_worktree"
+        worktree_name_preview_length "10"
+        rewrites {
+            // Portable stand-in for home_dir, since $HOME differs per machine
+            path "^/home/[^/]+" "~"
+        }
+    }
 }
 web_client {
     font "monospace"
