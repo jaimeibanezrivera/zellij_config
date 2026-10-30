@@ -1,0 +1,12 @@
+themes {
+    default {
+        frame_unselected {
+            base 235
+            background 238
+            emphasis_0 166
+            emphasis_1 51
+            emphasis_2 201
+            emphasis_3 215
+        }
+    }
+}
