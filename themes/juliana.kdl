@@ -2,7 +2,7 @@ themes {
     juliana {
         text_unselected {
             base 216 222 233
-            background 48 56 65
+            background 52 61 70
             emphasis_0 249 174 88
             emphasis_1 95 180 180
             emphasis_2 153 199 148
@@ -10,14 +10,14 @@ themes {
         }
         text_selected {
             base 216 222 233
-            background 48 56 65
+            background 52 61 70
             emphasis_0 249 174 88
             emphasis_1 95 180 180
             emphasis_2 153 199 148
             emphasis_3 198 149 198
         }
         ribbon_selected {
-            base 48 56 65
+            base 52 61 70
             background 153 199 148
             emphasis_0 236 95 102
             emphasis_1 249 174 88
@@ -25,7 +25,7 @@ themes {
             emphasis_3 92 153 214
         }
         ribbon_unselected {
-            base 48 56 65
+            base 52 61 70
             background 166 172 185
             emphasis_0 236 95 102
             emphasis_1 216 222 233
@@ -50,7 +50,7 @@ themes {
         }
         table_cell_unselected {
             base 216 222 233
-            background 48 56 65
+            background 52 61 70
             emphasis_0 249 174 88
             emphasis_1 95 180 180
             emphasis_2 153 199 148
@@ -66,7 +66,7 @@ themes {
         }
         list_unselected {
             base 216 222 233
-            background 48 56 65
+            background 52 61 70
             emphasis_0 249 174 88
             emphasis_1 95 180 180
             emphasis_2 153 199 148
@@ -100,7 +100,7 @@ themes {
             base 153 199 148
             background 0
             emphasis_0 95 180 180
-            emphasis_1 48 56 65
+            emphasis_1 52 61 70
             emphasis_2 198 149 198
             emphasis_3 92 153 214
         }
