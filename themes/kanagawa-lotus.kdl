@@ -1,0 +1,128 @@
+themes {
+    kanagawa-lotus {
+        text_unselected {
+            base 84 84 100
+            background 242 236 188
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 111 137 78
+            emphasis_3 98 76 131
+        }
+        text_selected {
+            base 84 84 100
+            background 199 215 224
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 111 137 78
+            emphasis_3 98 76 131
+        }
+        ribbon_selected {
+            base 242 236 188
+            background 111 137 78
+            emphasis_0 200 64 83
+            emphasis_1 204 109 0
+            emphasis_2 98 76 131
+            emphasis_3 77 105 155
+        }
+        ribbon_unselected {
+            base 242 236 188
+            background 84 84 100
+            emphasis_0 200 64 83
+            emphasis_1 242 236 188
+            emphasis_2 77 105 155
+            emphasis_3 98 76 131
+        }
+        table_title {
+            base 111 137 78
+            background 0
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 111 137 78
+            emphasis_3 98 76 131
+        }
+        table_cell_selected {
+            base 84 84 100
+            background 199 215 224
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 111 137 78
+            emphasis_3 98 76 131
+        }
+        table_cell_unselected {
+            base 84 84 100
+            background 242 236 188
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 111 137 78
+            emphasis_3 98 76 131
+        }
+        list_selected {
+            base 84 84 100
+            background 199 215 224
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 111 137 78
+            emphasis_3 98 76 131
+        }
+        list_unselected {
+            base 84 84 100
+            background 242 236 188
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 111 137 78
+            emphasis_3 98 76 131
+        }
+        frame_unselected {
+            base 223 218 177
+            background 0
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 98 76 131
+            emphasis_3 0
+        }
+        frame_selected {
+            base 111 137 78
+            background 0
+            emphasis_0 204 109 0
+            emphasis_1 77 105 155
+            emphasis_2 98 76 131
+            emphasis_3 0
+        }
+        frame_highlight {
+            base 204 109 0
+            background 0
+            emphasis_0 98 76 131
+            emphasis_1 204 109 0
+            emphasis_2 204 109 0
+            emphasis_3 204 109 0
+        }
+        exit_code_success {
+            base 111 137 78
+            background 0
+            emphasis_0 77 105 155
+            emphasis_1 242 236 188
+            emphasis_2 98 76 131
+            emphasis_3 77 105 155
+        }
+        exit_code_error {
+            base 200 64 83
+            background 0
+            emphasis_0 204 109 0
+            emphasis_1 0
+            emphasis_2 0
+            emphasis_3 0
+        }
+        multiplayer_user_colors {
+            player_1 98 76 131
+            player_2 77 105 155
+            player_3 0
+            player_4 204 109 0
+            player_5 77 105 155
+            player_6 0
+            player_7 200 64 83
+            player_8 0
+            player_9 0
+            player_10 0
+        }
+    }
+}
